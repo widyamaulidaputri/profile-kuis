@@ -4,13 +4,12 @@
     <div class = "container my-4">
       <div class = "row gx-lg-5">
         <div class = "col-lg-6 mb-5">
-          <img src = "../assets/snapchat.jpg" class = "img-fluid">
+          <img src = "../assets/deyacansbgt.jpg" class = "img-fluid">
         </div>
         <div class = "col-lg-6">
           <h3>Tentang Saya</h3>
-          <p class = "text-muted fw-light lh-lg my-4">Saya adalah seorang Mahasiswa Teknik Informatika Universitas Sultan Syarif Kasim Riau.Sekarang saya  berada di semester 4 ditahun kedua saya berkuliah.
-            Saya lahir pada tanggal 23 April 2003 di Kota Bangkinang, Riau. </p>
-          <button type = "button" class = "btn btn-green mt-2">Read more</button>
+          <p class = "text-muted fw-light lh-lg my-4">Nama Lengkap Saya Widya Maulida Putri dan Saya sekarang berumur 20 Tahun. Saya merupakan Mahasiswa Teknik Informatika di Universitas Islam Negeri Sultan Syarif Kasim Riau.
+          Saya lahir di Bangkinang 23 April 2003. Saya suka mendengarkan musik dikala waktu luang dan saya suka hangout bersama teman-teman. </p>
         </div>
       </div>
     </div>
@@ -70,7 +69,7 @@ export default {
 <style>
 #sec-6 {
   text-align: center;
-  border: 3px solid green;
+
 }
 :root{
   --green: #16db93;
@@ -132,7 +131,7 @@ ul li{
 
 /* section 6 */
 #sec-6{
-  background: #2c3e50;
+  background: grey;
 }
 #sec-6 .circle-icon{
   width: 95px;
